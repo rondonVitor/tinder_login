@@ -17,28 +17,28 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## How to Use 
+<h2 align="center">Layout 🎨</h2>
 
-**Step 1:**
+   <p align="center">
+      <img alt="Tinder Login" title="TinderLogin" src=".github/tinder_layout.png" />
+   </p>
 
-Download or clone this repo by using the link below:
+---
 
-```
-https://github.com/rondonVitor/tinder_login.git
-```
+<h2 align="center">How to Use 🤔</h2>
 
-**Step 2:**
+   ```
+   - Download or clone this repo by using the link below::
+   $ git clone https://github.com/rondonVitor/tinder_login.git
 
-Go to project root and execute the following command in console to get the required dependencies: 
+   - Enter directory:
+   $ cd tinder_Login
 
-```
-flutter pub get 
-```
+   - Go to project root and execute the following command in console to get the required dependencies:
+   $ flutter pub get
 
-**Step 3:**
+   - Run the app: 
+   $ flutter run
+   ```
 
-And execute the following command in console to run the app: 
-
-```
-flutter run 
-```
+---
