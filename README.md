@@ -1,6 +1,8 @@
 # tinder_login
 
-A new Flutter project.
+Login challenge made in the second class of the masterclass flutterando.
+
+Course link: https://masterclass.flutterando.com.br/public/products/8f64d9b5-e1fb-4cf0-86a0-2e04c4580a5b
 
 ## Getting Started
 
